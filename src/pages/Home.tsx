@@ -30,7 +30,7 @@ const Home = () => {
 
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-white text-gray-800 p-6">
-            {/* This is Forget button - should be deleted later*/}
+            {/* This is Forget button - should be deleted later */}
             <button
                 onClick={handleForgetButton}
                 className='absolute top-4 right-4 bg-red-200 px-2 py-1 rounded font-bold hover:bg-red-400 hover:text-white'
