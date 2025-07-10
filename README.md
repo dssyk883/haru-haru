@@ -37,7 +37,6 @@ A minimalist, task-switching time journal to track how you spend your day withou
 - **Frontend**: React (TypeScript), Vite
 - **Styling**: Tailwind CSS
 - **State Management**: useState, useEffect
-- **Deployment**: Local for now. Github pages / Netlify soon.
 
 ## 💡 Philosophy
 
